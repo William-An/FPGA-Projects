@@ -13,3 +13,8 @@
 - [`sof`](https://www.intel.com/content/www/us/en/programmable/quartushelp/17.0/reference/glossary/def_sof.htm)
   - General FPGA output file (like executable) for Quartus
   - Won't perserved in FPGA after power up
+
+## Modelsim could not run on Quartus
+
+Check this post [here](http://twoerner.blogspot.com/2017/10/running-modelsim-altera-from-quartus.html), might be missing
+some libs.
